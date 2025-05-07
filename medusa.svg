@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <title>Medusa</title>
+  <circle cx="50" cy="40" r="30" fill="#f8bbff" stroke="#c85c8e" stroke-width="2"/>
+  <circle cx="40" cy="35" r="5" fill="#c85c8e"/>
+  <circle cx="60" cy="35" r="5" fill="#c85c8e"/>
+  <path d="M40,50 Q50,60 60,50" fill="none" stroke="#c85c8e" stroke-width="2"/>
+  <g id="tentacles">
+    <path d="M30,60 Q25,75 35,90" fill="none" stroke="#f8bbff" stroke-width="4"/>
+    <path d="M40,65 Q30,80 40,95" fill="none" stroke="#f8bbff" stroke-width="4"/>
+    <path d="M50,65 Q45,85 55,95" fill="none" stroke="#f8bbff" stroke-width="4"/>
+    <path d="M60,65 Q65,75 60,95" fill="none" stroke="#f8bbff" stroke-width="4"/>
+    <path d="M70,60 Q80,70 75,90" fill="none" stroke="#f8bbff" stroke-width="4"/>
+  </g>
+</svg>
